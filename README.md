@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TAK</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **bootraps, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **trananhkiet21082005@gmail.com**
 
