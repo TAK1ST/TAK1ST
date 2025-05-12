@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm TAK</h1>
 <h2 align="left">I'm a student, from FPT University</h2>
-<h3 align="center">A passionate fullstack developer</h3>
 
 ###
 
